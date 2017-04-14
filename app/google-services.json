@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "202972401628",
+    "firebase_url": "https://textimz-c85bf.firebaseio.com",
+    "project_id": "textimz-c85bf",
+    "storage_bucket": "textimz-c85bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202972401628:android:6be8725bdc6785c8",
+        "android_client_info": {
+          "package_name": "textimz.textimzplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202972401628-ia5t37u7bvg8v2p5nsc4ct07474mkkq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "textimz.textimzplus",
+            "certificate_hash": "d93483f5fd0186f549694709c6b9210cc7ff2c5e"
+          }
+        },
+        {
+          "client_id": "202972401628-f0du18nl2hoi6ee8l2kltjrsjufnujl8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "textimz.textimzplus",
+            "certificate_hash": "a1166c88a1c27f1b1c15e692b2ed04fb40b5ad97"
+          }
+        },
+        {
+          "client_id": "202972401628-cflu9c6v0ced79psile5f0umtcffklud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR2UKTBLsy-HPt8q-Rx4pQAroyHIk04Qw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202972401628-cflu9c6v0ced79psile5f0umtcffklud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
